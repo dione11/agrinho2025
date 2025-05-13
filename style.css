@@ -2,11 +2,11 @@
 
 
 :root {
---primary-color: #026773;
---secondary-color: #3CA6A6;
+--primary-color: #12d5eb;
+--secondary-color: #a53b3b;
 --text-color: #024959;
---background-color: #F2E3D5;
---button-hover: #012E40;
+--background-color: #a145d6;
+--button-hover: #19ce13;
 --font-body: "Chocolate Classical Sans", serif;
 --font-titulo: "Rakkas", serif;
 }
@@ -97,7 +97,7 @@ background-color: white;
 padding: 20px;
 margin: 20px 0;
 border-radius: 8px;
-box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+box-shadow: 0 2px 5px rgba(216, 140, 140, 0.1);
 text-align: left;
 }
 
@@ -120,7 +120,7 @@ background-color: var(--button-hover);
 
 footer {
 text-align: center;
-padding: 20px;
+padding: 25px;
 color: var(--text-color);
 }
 
